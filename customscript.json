@@ -1,4 +1,4 @@
 {
- “fileuris”: [https://raw.githubusercontext.com/sdfsd/install_web.sh],
+ “fileuris”: ["https://raw.githubusercontext.com/sdfsd/install_web.sh"],
  “commandToExecute”: “./install.web.sh”
 }
