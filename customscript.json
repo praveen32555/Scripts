@@ -1,4 +1,4 @@
 {
- “fileUris”: ["https://raw.githubusercontent.com/praveen32555/Scripts/master/install_web.sh"],
- “commandToExecute”: “./install_web.sh”
+ "fileUris": ["https://raw.githubusercontent.com/praveen32555/Scripts/master/install_web.sh"],
+ "commandToExecute": "./install_web.sh"
 }
